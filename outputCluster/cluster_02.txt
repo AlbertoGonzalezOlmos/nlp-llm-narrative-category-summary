@@ -1,0 +1,24 @@
+```The school facilities are not well-maintained, and there is a lack of resources for extracurricular activities.```
+```Parents are concerned about the high student-to-teacher ratio, which affects the quality of education and individual attention given to each child.```
+```There is a lack of communication between the school administration and parents, making it difficult for parents to be involved in their child's education.```
+```The school does not prioritize the mental and emotional well-being of students, leading to high stress levels and anxiety among children.```
+
+Cluster 1: Curriculum and teaching methods
+- Strict curriculum with little flexibility
+- Teachers should know the individual level of each student
+
+Cluster 2: School facilities and resources
+- Poorly maintained facilities
+- Lack of resources for extracurricular activities
+
+Cluster 3: Student-to-teacher ratio
+- High student-to-teacher ratio
+- Affects quality of education and individual attention
+
+Cluster 4: Communication and parent involvement
+- Lack of communication between school and parents
+- Difficulty for parents to be involved in their child's education
+
+Cluster 5: Student well-being
+- School not prioritizing mental and emotional well-being
+- High stress levels and anxiety among students

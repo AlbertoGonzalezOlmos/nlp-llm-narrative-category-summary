@@ -1,0 +1,44 @@
+prompt: 
+
+
+Perform the following actions: 
+1 - Determine the distinct topics that are being discussed in the following sentences delimited by triple backticks /
+. Each sentence is represented by a number.
+2 - For each topic, explain how they are represented by the sentences.
+3 - For each topic, include which sentences represent the topic. Refer to the sentences by number.
+
+Separate your answers with line breaks.
+
+Sentences: ```1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding has led to worsening Danish schools and insufficient resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in schools. 
+ 6: Schools are well-equipped but need diverse teaching methods. 
+ 7: More stability in school staff benefits children's education. 
+ 8: Teachers feel demotivated and need support at work. 
+ 9: Teachers are underpaid and poorly educated, requiring intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ ```
+
+response: 
+Topic 1: Teaching methods and curriculum
+- This topic is represented by sentences discussing the teaching methods, curriculum, and their effects on students' learning experiences.
+- Sentences 1, 6, and 10 represent this topic.
+
+Topic 2: School funding and resources
+- This topic is represented by sentences discussing the financial aspects of schools, including funding, resources, and their impact on the quality of education.
+- Sentences 3 and 11 represent this topic.
+
+Topic 3: Parental and student satisfaction
+- This topic is represented by sentences discussing the feedback and experiences of parents and students in the schools.
+- Sentences 2 and 5 represent this topic.
+
+Topic 4: School quality variation
+- This topic is represented by sentences discussing the differences in school quality based on factors such as location and population.
+- Sentence 4 represents this topic.
+
+Topic 5: Teacher support and satisfaction
+- This topic is represented by sentences discussing the experiences, motivation, and needs of teachers in the schools.
+- Sentences 7, 8, and 9 represent this topic.

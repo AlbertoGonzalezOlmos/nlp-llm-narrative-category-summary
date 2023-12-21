@@ -1,0 +1,18 @@
+{
+  "topic_1": {
+    "explanation": "Issues related to teaching methods and curriculum",
+    "sentence_numbers": [1, 6, 10]
+  },
+  "topic_2": {
+    "explanation": "Positive aspects of the education system",
+    "sentence_numbers": [2, 5]
+  },
+  "topic_3": {
+    "explanation": "Funding and resource challenges in schools",
+    "sentence_numbers": [3, 4, 11]
+  },
+  "topic_4": {
+    "explanation": "Staff-related issues and teacher support",
+    "sentence_numbers": [7, 8, 9]
+  }
+}

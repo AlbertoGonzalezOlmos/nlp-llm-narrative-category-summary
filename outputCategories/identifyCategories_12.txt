@@ -1,0 +1,7 @@
+Category: ```Positive Aspects of Education```
+Explanation: ```This category includes sentences that highlight the positive aspects of the education system, such as parent satisfaction, student enjoyment, and support provided.```
+Sentences that represent the category: ```2, 5```
+
+Category: ```Negative Aspects of Education```
+Explanation: ```This category includes sentences that address the problems and challenges faced by the education system, such as outdated teaching methods, underfunding, and lack of resources.```
+Sentences that represent the category: ```1, 3, 4, 6, 7, 8, 9, 10, 11```

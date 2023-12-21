@@ -1,0 +1,44 @@
+temperature: 0, model: gpt-4
+prompt: 
+
+Your task is to extract the common topics discussed in a sequence of sentences delimited by <>. 
+Each sentence is represented by a number. 
+To perform the task do the following: - First, work out the common topics that are discussed in the sentences. - Second, reflect if you can find better topics to represent the sentences. - Third, explain each topic. - Fourth, associate each sentence to one of the topics.
+Refer to the sentences by their number. The same sentence can be associated with more than one topic. - Fifth, output the response as a json object that contains the following 
+keys: topic, explanation, sentence_numbers. 
+Sentences: <1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ >
+
+response: 
+{
+  "topic1": {
+    "topic": "Danish schools",
+    "explanation": "This topic covers the general aspects of Danish schools, including their teaching methods, quality, and feedback.",
+    "sentence_numbers": [1, 2, 4, 5, 6]
+  },
+  "topic2": {
+    "topic": "School funding and resources",
+    "explanation": "This topic discusses the financial aspects of schools, including underfunding, the need for more teachers and resources, and the impact on school quality.",
+    "sentence_numbers": [3, 4, 7]
+  },
+  "topic3": {
+    "topic": "Teacher-related issues",
+    "explanation": "This topic focuses on the challenges faced by teachers, such as demotivation, poor pay, and the need for better education and support.",
+    "sentence_numbers": [7, 8, 9, 11]
+  },
+  "topic4": {
+    "topic": "Curriculum and teaching methods",
+    "explanation": "This topic addresses the limitations of the current curriculum and teaching methods, as well as the need for more flexibility and individualized learning.",
+    "sentence_numbers": [1, 6, 10, 11]
+  }
+}

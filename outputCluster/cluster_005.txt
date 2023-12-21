@@ -1,0 +1,26 @@
+Cluster 1: Strict curriculum
+- Little room for flexibility
+- Children learn better when the teacher knows their level in each subject
+
+Summary: ```The school facilities are outdated and not well-maintained, which affects the learning environment for the students.```
+
+Cluster 2: School facilities
+- Outdated and not well-maintained
+- Affects the learning environment
+
+Summary: ```There is a lack of extracurricular activities and opportunities for students to explore their interests and talents outside of the classroom.```
+
+Cluster 3: Extracurricular activities
+- Lack of opportunities for students to explore interests and talents
+
+Summary: ```The teacher-student ratio is too high, making it difficult for teachers to give individual attention to each student and address their specific needs.```
+
+Cluster 4: Teacher-student ratio
+- Too high, difficult for individual attention
+- Addressing specific needs of students
+
+Summary: ```The school does not provide enough resources and support for students with special needs, making it challenging for them to succeed in the current education system.```
+
+Cluster 5: Support for students with special needs
+- Insufficient resources and support
+- Challenging for success in the education system

@@ -1,0 +1,7 @@
+{
+  "Danish Education System": "Covers the overall aspects of the education system in Denmark, including teaching methods, curriculum, and school quality.",
+  "School Funding": "Addresses the financial aspects of schools, including underfunding, resource allocation, and the impact on education quality.",
+  "Teacher Support": "Focuses on the challenges faced by teachers, such as motivation, work environment, and compensation, as well as the need for ministry intervention.",
+  "Teaching Methods and Curriculum": "Discusses the teaching methods used in schools, their effectiveness, and the limitations of the curriculum in promoting individualized learning.",
+  "School Environment": "Encompasses the physical and emotional aspects of the school environment, including equipment, staff stability, and the impact on children's education."
+}

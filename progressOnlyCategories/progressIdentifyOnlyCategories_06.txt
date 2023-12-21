@@ -1,0 +1,42 @@
+temperature: 0, model: gpt-4
+prompt: 
+
+
+To perform the task follow these steps: - work out the topics discussed in the sentences delimited by <>.
+- each sentence is represented by a number. - reflect if you can find better topics to represent the sentences. - explain each topic in a concise way. - list and number each topic and its explanation.
+
+Sentences: <1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ >
+
+response: 
+1. Outdated teaching methods: Some Danish schools still use old teaching methods that may not be as effective or engaging for students.
+
+2. Parental satisfaction: Despite some issues, Danish schools generally receive positive feedback from parents.
+
+3. Funding issues: Underfunding in schools leads to a lack of resources and teachers, negatively impacting the quality of education.
+
+4. School quality disparity: The quality of education varies depending on the neighborhood and local population, leading to unequal opportunities for students.
+
+5. Positive aspects of education system: The Danish education system encourages freedom, creativity, and foundational support for children.
+
+6. Well-equipped schools with unengaging teaching methods: Schools may have adequate resources, but the teaching methods used may not be engaging for students.
+
+7. Staff stability: A more stable school staff would lead to better educational outcomes for children.
+
+8. Teacher motivation and support: Teachers need more support and a better work environment to feel motivated and perform their best.
+
+9. Teacher education and pay: Teachers in Danish schools may be poorly paid and educated, requiring intervention from the ministry to improve the situation.
+
+10. Curriculum inflexibility: A strict curriculum may limit flexibility and individualized learning opportunities for students.
+
+11. Unenthusiastic teachers and equipment improvement: Teachers may lack enthusiasm, and schools may require better equipment to improve the overall educational experience.

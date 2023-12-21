@@ -1,0 +1,7 @@
+{
+  "Education System": [1, 3, 4, 5, 6, 10],
+  "Teaching Methods": [1, 6, 10],
+  "Parental Feedback": [2, 5],
+  "School Staff": [7, 8, 9, 11],
+  "Neighborhood Factors": [4]
+}

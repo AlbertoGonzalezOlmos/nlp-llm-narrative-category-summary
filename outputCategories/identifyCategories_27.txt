@@ -1,0 +1,18 @@
+{
+  "Education Quality": {
+    "explanation": "The overall quality of education in schools, including teaching methods, resources, and curriculum.",
+    "sentence_numbers": [1, 2, 3, 4, 5, 6, 10]
+  },
+  "Teacher Issues": {
+    "explanation": "Challenges faced by teachers, such as motivation, payment, education, and work environment.",
+    "sentence_numbers": [7, 8, 9, 11]
+  },
+  "School Funding": {
+    "explanation": "The impact of funding on school quality, resources, and staff stability.",
+    "sentence_numbers": [3, 7]
+  },
+  "Student Experience": {
+    "explanation": "The experience of students in the education system, including freedom, creativity, and individualized learning.",
+    "sentence_numbers": [5, 10]
+  }
+}

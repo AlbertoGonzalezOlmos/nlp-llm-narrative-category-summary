@@ -1,0 +1,22 @@
+{
+  "Danish_schools": {
+    "explanation": "Sentences discussing the general state of Danish schools.",
+    "sentence_numbers": [1, 2, 3, 4, 5, 6]
+  },
+  "Teaching_methods": {
+    "explanation": "Sentences focusing on teaching methods and curriculum in schools.",
+    "sentence_numbers": [1, 6, 10]
+  },
+  "School_staff": {
+    "explanation": "Sentences discussing the staff, their motivation, and their work environment.",
+    "sentence_numbers": [7, 8, 9, 11]
+  },
+  "Resources_and_funding": {
+    "explanation": "Sentences addressing the funding, resources, and equipment in schools.",
+    "sentence_numbers": [3, 6, 11]
+  },
+  "Individualized_learning": {
+    "explanation": "Sentences discussing the importance of individualized learning and creativity in the education system.",
+    "sentence_numbers": [5, 10]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "Education System": "Overall aspects of the education system, including teaching methods, curriculum, and foundational support.",
+  "School Funding": "Financial aspects of schools, including underfunding, resources, and equipment.",
+  "Teacher Support": "Issues related to teachers, such as motivation, education, payment, and work environment.",
+  "School Quality": "Variability in school quality based on factors like neighborhood and local population.",
+  "Parental Feedback": "Parents' opinions and feedback on the education system."
+}

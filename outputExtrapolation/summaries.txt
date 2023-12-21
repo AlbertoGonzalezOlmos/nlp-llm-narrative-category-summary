@@ -1,0 +1,4 @@
+{
+  "user1.txt": "The customer wants a pizza that is very hot.",
+  "user2.txt": "The food today was not good, so the speaker wants something special."
+}

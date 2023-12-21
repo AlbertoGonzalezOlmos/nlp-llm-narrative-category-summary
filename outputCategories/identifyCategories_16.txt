@@ -1,0 +1,27 @@
+Category: ```Education Quality```
+Explanation: ```This category focuses on the overall quality of education, including teaching methods, curriculum, and resources available in schools.```
+Sentences that represent the category: ```1, 3, 4, 5, 6, 10```
+
+Category: ```Teacher-related Issues```
+Explanation: ```This category addresses issues related to teachers, such as their motivation, education, payment, and work environment.```
+Sentences that represent the category: ```7, 8, 9, 11```
+
+Category: ```Parental and Community Feedback```
+Explanation: ```This category highlights the feedback and opinions of parents and the local community regarding the education system.```
+Sentences that represent the category: ```2, 4```
+
+{
+  "category": "Education Quality",
+  "explanation": "This category focuses on the overall quality of education, including teaching methods, curriculum, and resources available in schools.",
+  "sentence_numbers": [1, 3, 4, 5, 6, 10]
+},
+{
+  "category": "Teacher-related Issues",
+  "explanation": "This category addresses issues related to teachers, such as their motivation, education, payment, and work environment.",
+  "sentence_numbers": [7, 8, 9, 11]
+},
+{
+  "category": "Parental and Community Feedback",
+  "explanation": "This category highlights the feedback and opinions of parents and the local community regarding the education system.",
+  "sentence_numbers": [2, 4]
+}

@@ -1,0 +1,22 @@
+prompt: 
+
+    Your task is to extract relevant information from \ 
+    the opinion of parents about the school of their children     to give feedback to the Ministry of Education. 
+
+    From the opinion below, delimited by triple backticks     extract the information relevant to the state of the     schools and the education system. Limit to one sentence with at most 10 words. 
+
+    Opinion: ```Teachers don't seem to enjoy their work, the school needs better equipment.```
+    
+response: 
+1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from families. 
+ 3: Underfunding has led to worsening Danish schools and insufficient resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational learning support. 
+ 6: Schools well-equipped, but children dislike constant reading. 
+ 7: More stability in school staff benefits children's education. 
+ 8: Teachers feel demotivated, need improved work conditions. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ 

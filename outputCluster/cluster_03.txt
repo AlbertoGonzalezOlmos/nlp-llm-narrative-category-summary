@@ -1,0 +1,17 @@
+prompt: 
+
+
+Perform the following actions: 
+1 - Determine the distinct topics that are being discussed in the following sentences delimited by triple backticks /
+. Each sentence is represented by a number.
+2 - For each topic, explain how they are represented by the sentences.
+3 - For each topic, include which sentences represent the topic. Refer to the sentences by number.
+
+Separate your answers with line breaks.
+
+Sentences: ```Children need to follow a very strict curriculum and there is little room for flexibility and I think children learn better when the teacher knows which is their level in each subject.```
+
+response: 
+1. Strict curriculum and flexibility in education
+2. This topic is represented by discussing the need for children to follow a strict curriculum and the potential benefits of having more flexibility in the educational system.
+3. Sentence 1 represents this topic.

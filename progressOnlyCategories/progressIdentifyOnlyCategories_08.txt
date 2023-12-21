@@ -1,0 +1,92 @@
+temperature: 0, model: gpt-4
+prompt01: 
+
+
+Follow these steps: - work out the topics discussed in the sentences delimited by <>.
+- each sentence is represented by a number. - reflect if you can find better topics to represent the sentences. - explain each topic in a concise way. - list and number each topic and its explanation.
+
+Sentences: <1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ >
+prompt02: 
+
+
+Follow these steps: - work out the topics discussed in the sentences delimited by <>.
+- each sentence is represented by a number. - work out which topics delimited by "" best represent the sentences given the explanation of the topic. - explain each topic in a concise way. - output the response as a python dictionary that contains the following 
+key: topic name, and values: explanation. 
+Sentences: <1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ >
+Topics: "1. Outdated teaching methods: Sentence 1 and 6 highlight the issue of outdated teaching methods in Danish schools, which may not be engaging for students.
+
+2. Parental satisfaction: Sentence 2 indicates that despite some issues, Danish schools receive positive feedback from parents.
+
+3. Funding and resources: Sentence 3 and 11 emphasize the need for more funding to improve schools, hire more teachers, and provide better resources.
+
+4. School quality disparities: Sentence 4 points out that the quality of schools varies depending on the neighborhood and local population.
+
+5. Positive aspects of the education system: Sentence 5 highlights the freedom, creativity, and foundational support that children enjoy in the Danish education system.
+
+6. Staff stability and support: Sentence 7 and 8 discuss the need for more stability in school staff and better support for teachers to create a better work environment.
+
+7. Teacher qualifications and compensation: Sentence 9 addresses the issue of poorly paid and educated teachers, calling for ministry intervention.
+
+8. Curriculum rigidity: Sentence 10 argues that a strict curriculum limits flexibility and individualized learning opportunities for students.1. Outdated teaching methods: Sentence 1 and 6 highlight the issue of outdated teaching methods in Danish schools, which may not be engaging or effective for students.
+
+2. Parental satisfaction: Sentence 2 indicates that despite some issues, Danish schools receive positive feedback from parents.
+
+3. Funding and resources: Sentence 3 and 11 emphasize the need for more funding to improve schools, hire more teachers, and provide better resources and equipment.
+
+4. School quality disparities: Sentence 4 points out that the quality of schools can vary depending on the neighborhood and local population.
+
+5. Positive aspects of education system: Sentence 5 highlights the freedom, creativity, and foundational support that children enjoy in the Danish education system.
+
+6. Staff stability: Sentence 7 suggests that more stability in school staff would be beneficial for children's education.
+
+7. Teacher motivation and support: Sentence 8 and 9 discuss the issues of teacher demotivation, poor pay, and education, and the need for support and intervention from the ministry.
+
+8. Curriculum rigidity: Sentence 10 addresses the issue of a strict curriculum that limits flexibility and individualized learning.1. Outdated teaching methods: Sentence 1 and 6 highlight the issue of outdated teaching methods in Danish schools, which may not be engaging or effective for students.
+
+2. Parental satisfaction: Sentence 2 indicates that despite some issues, Danish schools receive positive feedback from parents.
+
+3. Funding and resources: Sentence 3 and 11 emphasize the need for more funding to improve schools, hire more teachers, and provide better resources and equipment.
+
+4. School quality disparities: Sentence 4 points out that the quality of schools can vary depending on the neighborhood and local population.
+
+5. Positive aspects of education system: Sentence 5 highlights the freedom, creativity, and foundational support that children enjoy in the Danish education system.
+
+6. Staff stability: Sentence 7 suggests that more stability in school staff would be beneficial for children's education.
+
+7. Teacher motivation and support: Sentence 8 and 9 discuss the issues of teacher demotivation, poor pay, and education, and the need for support and intervention from the ministry.
+
+8. Curriculum rigidity: Sentence 10 addresses the issue of a strict curriculum that limits flexibility and individualized learning."
+
+response: 
+{
+  "1. Outdated teaching methods": "Sentences 1 and 6 highlight the issue of outdated teaching methods in Danish schools, which may not be engaging or effective for students.",
+  "2. Parental satisfaction": "Sentence 2 indicates that despite some issues, Danish schools receive positive feedback from parents.",
+  "3. Funding and resources": "Sentences 3 and 11 emphasize the need for more funding to improve schools, hire more teachers, and provide better resources and equipment.",
+  "4. School quality disparities": "Sentence 4 points out that the quality of schools can vary depending on the neighborhood and local population.",
+  "5. Positive aspects of education system": "Sentence 5 highlights the freedom, creativity, and foundational support that children enjoy in the Danish education system.",
+  "6. Staff stability": "Sentence 7 suggests that more stability in school staff would be beneficial for children's education.",
+  "7. Teacher motivation and support": "Sentences 8 and 9 discuss the issues of teacher demotivation, poor pay, and education, and the need for support and intervention from the ministry.",
+  "8. Curriculum rigidity": "Sentence 10 addresses the issue of a strict curriculum that limits flexibility and individualized learning."
+}

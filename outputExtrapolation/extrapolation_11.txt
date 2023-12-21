@@ -1,0 +1,12 @@
+1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ 

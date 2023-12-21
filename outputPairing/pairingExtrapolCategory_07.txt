@@ -1,0 +1,7 @@
+{
+  "Danish Education System": [1, 2, 4, 5],
+  "School Funding": [3],
+  "Teacher Support": [7, 8, 9],
+  "Teaching Methods and Curriculum": [1, 6, 10],
+  "School Environment": [4, 6, 7, 11]
+}

@@ -1,0 +1,15 @@
+Topic 1: State of Danish schools
+Explanation: These sentences discuss the overall condition of Danish schools, including their quality, funding, and resources.
+Sentences: 1, 3, 4, 6
+
+Topic 2: Teaching methods and curriculum
+Explanation: These sentences focus on the teaching methods used in Danish schools, the curriculum, and the need for more flexibility and individualized learning.
+Sentences: 1, 6, 10
+
+Topic 3: Teacher-related issues
+Explanation: These sentences address issues related to teachers, such as their motivation, education, and compensation.
+Sentences: 7, 8, 9, 11
+
+Topic 4: Positive aspects of Danish schools
+Explanation: These sentences highlight the positive aspects of Danish schools, such as the freedom, creativity, and support provided to children.
+Sentences: 2, 5

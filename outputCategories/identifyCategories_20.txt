@@ -1,0 +1,95 @@
+Topic: Outdated Teaching Methods 
+Explanation: The current teaching methods used in Danish schools are not effective and need to be updated. 
+Sentences that represent the topic: 1 
+
+Topic: School Quality Disparities 
+Explanation: The quality of education in Danish schools varies depending on the neighborhood and local population. 
+Sentences that represent the topic: 4 
+
+Topic: Lack of Engaging Teaching Methods 
+Explanation: While Danish schools are well-equipped, they lack engaging teaching methods. 
+Sentences that represent the topic: 6 
+
+Topic: Need for Teacher Support 
+Explanation: Teachers in Danish schools feel demotivated and need support for a better work environment. 
+Sentences that represent the topic: 8 
+
+Topic: Underfunding and Poor Teacher Pay 
+Explanation: Underfunding of schools leads to worse schools, needing more teachers and resources. Teachers are poorly paid and educated, and need intervention from the ministry. 
+Sentences that represent the topic: 3, 9 
+
+Topic: Limitations of Strict Curriculum 
+Explanation: The strict curriculum in Danish schools limits flexibility and individualized learning. 
+Sentences that represent the topic: 10 
+
+Topic: Need for Improved School Equipment 
+Explanation: Teachers in Danish schools are unenthusiastic and the school requires improved equipment. 
+Sentences that represent the topic: 11 
+
+Topic: Positive Feedback from Parents 
+Explanation: Danish schools receive positive feedback from parents. 
+Sentences that represent the topic: 2 
+
+Topic: Benefits of Education System 
+Explanation: Children in Danish schools enjoy freedom, creativity, and foundational support in the education system. 
+Sentences that represent the topic: 5 
+
+Topic: Need for Stability in School Staff 
+Explanation: More stability in school staff would benefit children's education. 
+Sentences that represent the topic: 7 
+
+JSON Output: 
+{
+  "topics": [
+    {
+      "topic": "Outdated Teaching Methods",
+      "explanation": "The current teaching methods used in Danish schools are not effective and need to be updated.",
+      "sentence_numbers": [1]
+    },
+    {
+      "topic": "School Quality Disparities",
+      "explanation": "The quality of education in Danish schools varies depending on the neighborhood and local population.",
+      "sentence_numbers": [4]
+    },
+    {
+      "topic": "Lack of Engaging Teaching Methods",
+      "explanation": "While Danish schools are well-equipped, they lack engaging teaching methods.",
+      "sentence_numbers": [6]
+    },
+    {
+      "topic": "Need for Teacher Support",
+      "explanation": "Teachers in Danish schools feel demotivated and need support for a better work environment.",
+      "sentence_numbers": [8]
+    },
+    {
+      "topic": "Underfunding and Poor Teacher Pay",
+      "explanation": "Underfunding of schools leads to worse schools, needing more teachers and resources. Teachers are poorly paid and educated, and need intervention from the ministry.",
+      "sentence_numbers": [3, 9]
+    },
+    {
+      "topic": "Limitations of Strict Curriculum",
+      "explanation": "The strict curriculum in Danish schools limits flexibility and individualized learning.",
+      "sentence_numbers": [10]
+    },
+    {
+      "topic": "Need for Improved School Equipment",
+      "explanation": "Teachers in Danish schools are unenthusiastic and the school requires improved equipment.",
+      "sentence_numbers": [11]
+    },
+    {
+      "topic": "Positive Feedback from Parents",
+      "explanation": "Danish schools receive positive feedback from parents.",
+      "sentence_numbers": [2]
+    },
+    {
+      "topic": "Benefits of Education System",
+      "explanation": "Children in Danish schools enjoy freedom, creativity, and foundational support in the education system.",
+      "sentence_numbers": [5]
+    },
+    {
+      "topic": "Need for Stability in School Staff",
+      "explanation": "More stability in school staff would benefit children's education.",
+      "sentence_numbers": [7]
+    }
+  ]
+}

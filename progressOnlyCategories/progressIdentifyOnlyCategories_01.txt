@@ -1,0 +1,33 @@
+temperature: 0, model: gpt-4
+prompt: 
+
+Your task is to extract the common topics discussed in a sequence of sentences delimited by <>. 
+Each sentence is represented by a number. 
+To perform the task follow these steps: - work out the common topics that are discussed in the sentences. - reflect if you can find better topics to represent the sentences. - explain each topic in a concise way. - output the response as a python dictionary that contains the following 
+key: topic_name, and values: explanation. 
+Sentences: <1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ >
+
+response: 
+{
+  "Danish_schools": "Discussing the quality, teaching methods, and funding of Danish schools.",
+  "Parent_feedback": "Parents' opinions on the education system and its impact on children.",
+  "School_funding": "The impact of underfunding on school quality, resources, and staffing.",
+  "Neighborhood_variability": "Variation in school quality based on location and local population.",
+  "Child-centered_education": "The importance of freedom, creativity, and foundational support in education.",
+  "Teaching_methods": "The need for engaging and flexible teaching methods in schools.",
+  "Staff_stability": "The impact of staff stability on children's education and teacher motivation.",
+  "Teacher_support": "The need for better work environment, pay, and education for teachers.",
+  "Ministry_intervention": "The role of the ministry in improving teacher education and school equipment.",
+  "Curriculum_flexibility": "The impact of strict curriculum on individualized learning and teacher enthusiasm."
+}

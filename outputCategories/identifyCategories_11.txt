@@ -1,0 +1,7 @@
+Category: `Education System`
+Explanation: `This category includes sentences that discuss the overall education system, its quality, and the experiences of students within it.`
+Sentences that represent the category: `1, 2, 3, 4, 5, 6, 10`
+
+Category: `Teacher-Related Issues`
+Explanation: `This category includes sentences that specifically address issues related to teachers, such as their motivation, education, and work environment.`
+Sentences that represent the category: `7, 8, 9, 11`

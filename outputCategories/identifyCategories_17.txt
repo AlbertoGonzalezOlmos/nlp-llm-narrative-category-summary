@@ -1,0 +1,27 @@
+Topic: Danish School System
+Explanation: This topic covers the overall aspects of the Danish school system, including teaching methods, funding, and quality.
+Sentences that represent the topic: 1, 2, 3, 4, 5, 6, 7, 10
+
+Topic: Teachers' Well-being and Support
+Explanation: This topic focuses on the challenges faced by teachers, their motivation, and the need for better support and work environment.
+Sentences that represent the topic: 7, 8, 9, 11
+
+Topic: Curriculum and Teaching Methods
+Explanation: This topic discusses the curriculum, teaching methods, and how they impact the learning experience of students.
+Sentences that represent the topic: 1, 5, 6, 10, 11
+
+{
+  "topic": "Danish School System",
+  "explanation": "This topic covers the overall aspects of the Danish school system, including teaching methods, funding, and quality.",
+  "sentence_numbers": [1, 2, 3, 4, 5, 6, 7, 10]
+},
+{
+  "topic": "Teachers' Well-being and Support",
+  "explanation": "This topic focuses on the challenges faced by teachers, their motivation, and the need for better support and work environment.",
+  "sentence_numbers": [7, 8, 9, 11]
+},
+{
+  "topic": "Curriculum and Teaching Methods",
+  "explanation": "This topic discusses the curriculum, teaching methods, and how they impact the learning experience of students.",
+  "sentence_numbers": [1, 5, 6, 10, 11]
+}

@@ -1,0 +1,12 @@
+{
+  "Danish_schools": "Discussing the quality, teaching methods, and funding of Danish schools.",
+  "Parent_feedback": "Parents' opinions on the education system and its impact on children.",
+  "School_funding": "The impact of underfunding on school quality, resources, and staffing.",
+  "Neighborhood_variability": "Variation in school quality based on location and local population.",
+  "Child-centered_education": "The importance of freedom, creativity, and foundational support in education.",
+  "Teaching_methods": "The need for engaging and flexible teaching methods in schools.",
+  "Staff_stability": "The impact of staff stability on children's education and teacher motivation.",
+  "Teacher_support": "The need for better work environment, pay, and education for teachers.",
+  "Ministry_intervention": "The role of the ministry in improving teacher education and school equipment.",
+  "Curriculum_flexibility": "The impact of strict curriculum on individualized learning and teacher enthusiasm."
+}

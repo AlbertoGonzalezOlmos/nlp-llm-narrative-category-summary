@@ -1,0 +1,7 @@
+{
+  "Education System": [1, 5, 6, 10],
+  "School Funding": [3, 11],
+  "Teacher Support": [7, 8, 9],
+  "School Quality": [4],
+  "Parental Feedback": [2]
+}

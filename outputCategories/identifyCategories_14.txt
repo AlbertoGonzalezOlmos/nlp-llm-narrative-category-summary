@@ -1,0 +1,15 @@
+Category: `Education System and Quality`
+Explanation: This category covers the overall quality of the education system, including teaching methods, curriculum, and school resources.
+Sentences that represent the category: `1, 3, 4, 5, 6, 10`
+
+Category: `Parent and Student Satisfaction`
+Explanation: This category focuses on the feedback and experiences of parents and students within the education system.
+Sentences that represent the category: `2, 5`
+
+Category: `Teacher Support and Work Environment`
+Explanation: This category discusses the challenges faced by teachers, their work environment, and the support they receive.
+Sentences that represent the category: `7, 8, 9, 11`
+
+Category: `Funding and Resource Allocation`
+Explanation: This category addresses the financial aspects of the education system, including funding, resource allocation, and potential improvements.
+Sentences that represent the category: `3, 4, 9, 11`

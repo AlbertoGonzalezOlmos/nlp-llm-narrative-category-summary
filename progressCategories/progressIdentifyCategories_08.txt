@@ -1,0 +1,38 @@
+temperature: 0.3, model: gpt-4
+prompt: 
+
+
+Perform the following actions: 1 - Determine the distinct topics that are being discussed
+in the following sentences delimited by triple backticks.
+Each sentence is represented by a number.2 - For each topic, explain how they are represented by the sentences. 3 - For each topic, include which sentences represent the topic. Refer to the sentences by number.
+More than one sentence may represent the same topic.
+Separate your answers with line breaks.
+Sentences: ```1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ ```
+
+response: 
+Topic 1: Teaching methods and curriculum
+Sentences representing this topic: 1, 6, 10
+Explanation: These sentences discuss the outdated teaching methods in Danish schools, the lack of engaging teaching methods, and the strict curriculum that limits flexibility and individualized learning.
+
+Topic 2: School funding and resources
+Sentences representing this topic: 3, 7, 11
+Explanation: These sentences address the issues of underfunding in schools, the need for more teachers and resources, the importance of stability in school staff, and the requirement for improved equipment.
+
+Topic 3: School quality and variation
+Sentences representing this topic: 2, 4, 5
+Explanation: These sentences discuss the positive feedback from parents, the variation in school quality based on neighborhood and local population, and the aspects of freedom, creativity, and foundational support in the education system.
+
+Topic 4: Teacher-related issues
+Sentences representing this topic: 8, 9
+Explanation: These sentences focus on the challenges faced by teachers, such as demotivation, the need for a better work environment, poor pay, and education, and the necessity for ministry intervention.

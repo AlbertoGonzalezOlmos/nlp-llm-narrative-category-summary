@@ -1,0 +1,22 @@
+{
+  "topic1": {
+    "topic": "Danish school system",
+    "explanation": "This topic covers the general aspects of the Danish school system, including teaching methods, curriculum, and school quality.",
+    "sentence_numbers": [1, 2, 4, 5, 6, 10]
+  },
+  "topic2": {
+    "topic": "School funding and resources",
+    "explanation": "This topic discusses the financial aspects of schools, including underfunding, resource allocation, and the impact on school quality.",
+    "sentence_numbers": [3, 4, 7]
+  },
+  "topic3": {
+    "topic": "Teacher-related issues",
+    "explanation": "This topic focuses on the challenges faced by teachers, such as motivation, payment, education, and work environment.",
+    "sentence_numbers": [7, 8, 9, 11]
+  },
+  "topic4": {
+    "topic": "Curriculum and teaching methods",
+    "explanation": "This topic covers the content and delivery of education, including the curriculum, teaching methods, and individualized learning.",
+    "sentence_numbers": [1, 5, 6, 10, 11]
+  }
+}

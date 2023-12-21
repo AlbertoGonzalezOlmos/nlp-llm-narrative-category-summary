@@ -1,0 +1,7 @@
+{
+  "Education System": "Covers the overall quality, funding, and curriculum of schools.",
+  "Teaching Methods": "Refers to the approaches and techniques used in classrooms, including engagement and flexibility.",
+  "Parental Feedback": "Represents the opinions and satisfaction of parents with the education system.",
+  "School Staff": "Addresses the stability, motivation, and qualifications of teachers and other school personnel.",
+  "Neighborhood Factors": "Discusses the impact of local population and neighborhood on school quality."
+}

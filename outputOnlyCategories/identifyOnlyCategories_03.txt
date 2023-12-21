@@ -1,0 +1,7 @@
+{
+  "Danish Schools": "Overview of the Danish education system, including positive feedback and areas for improvement.",
+  "Teaching Methods": "Discussion of outdated teaching methods, strict curriculum, and the need for more engaging and individualized learning.",
+  "Funding and Resources": "Issues related to underfunding, school quality variation, and the need for better equipment and resources.",
+  "Teacher Support": "Challenges faced by teachers, including low pay, lack of motivation, and the need for a better work environment and ministry intervention.",
+  "Student Experience": "Aspects of the education system that promote freedom, creativity, and foundational support for children."
+}

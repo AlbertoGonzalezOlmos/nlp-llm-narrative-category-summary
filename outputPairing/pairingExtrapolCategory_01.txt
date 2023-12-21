@@ -1,0 +1,12 @@
+{
+  "Danish_schools": [1, 2],
+  "Parent_feedback": [2],
+  "School_funding": [3],
+  "Neighborhood_variability": [4],
+  "Child-centered_education": [5],
+  "Teaching_methods": [6, 10],
+  "Staff_stability": [7],
+  "Teacher_support": [8, 9],
+  "Ministry_intervention": [9],
+  "Curriculum_flexibility": [10, 11]
+}

@@ -1,0 +1,52 @@
+prompt: 
+
+
+Perform the following actions: 1 - Determine the distinct topics that are being discussed
+in the following sentences delimited by triple backticks.
+Each sentence is represented by a number.2 - For each topic, explain how they are represented by the sentences. 3 - For each topic, include which sentences represent the topic. Refer to the sentences by number.
+There can be more than one sentence representing the same topic.
+Separate your answers with line breaks.
+Sentences: ```prompt: 
+
+    Your task is to extract relevant information from  
+    the opinion of parents about the school of their children 
+    to give feedback to the Ministry of Education. 
+    From the opinion below, delimited by triple backticks 
+    extract the information relevant to the state of the 
+    schools and the education system. Limit to one sentence with at most 10 words. 
+    Opinion: 
+    
+response: 
+1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ ```
+
+response: 
+Topic 1: Teaching methods and curriculum
+Sentences representing the topic: 1, 6, 10
+Explanation: These sentences discuss the outdated teaching methods, lack of engaging methods, and the strict curriculum in Danish schools.
+
+Topic 2: School funding and resources
+Sentences representing the topic: 3, 11
+Explanation: These sentences highlight the issues of underfunding, the need for more teachers and resources, and the requirement for improved equipment in schools.
+
+Topic 3: School quality and variation
+Sentences representing the topic: 2, 4
+Explanation: These sentences mention the positive feedback from parents and the variation in school quality based on neighborhood and local population.
+
+Topic 4: Teacher-related issues
+Sentences representing the topic: 7, 8, 9
+Explanation: These sentences discuss the need for more stability in school staff, the demotivation of teachers, and the issues with teacher pay and education.
+
+Topic 5: Positive aspects of the education system
+Sentences representing the topic: 5
+Explanation: This sentence highlights the freedom, creativity, and foundational support enjoyed by children in the Danish education system.

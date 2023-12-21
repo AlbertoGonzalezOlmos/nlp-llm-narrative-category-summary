@@ -1,0 +1,10 @@
+{
+  "1. Outdated teaching methods": "Sentence 1 and 6 discuss the issue of outdated teaching methods in Danish schools, which may not be engaging for students.",
+  "2. Parental satisfaction": "Sentence 2 highlights that Danish schools receive positive feedback from parents, indicating some level of satisfaction with the education system.",
+  "3. Funding and resources": "Sentence 3 and 11 emphasize the need for more funding and resources in schools, which can lead to improved school quality and better educational outcomes.",
+  "4. School quality variation": "Sentence 4 points out that the quality of schools can vary depending on the neighborhood and local population, suggesting that some areas may have better educational opportunities than others.",
+  "5. Positive aspects of education system": "Sentence 5 highlights the freedom, creativity, and foundational support that children enjoy in the Danish education system.",
+  "6. Staff stability and support": "Sentences 7 and 8 discuss the need for more stability in school staff and better support for teachers, which can lead to a better work environment and improved education for children.",
+  "7. Teacher qualifications and pay": "Sentence 9 addresses the issue of poorly paid and educated teachers, suggesting that intervention from the ministry is needed to improve this situation.",
+  "8. Curriculum rigidity": "Sentence 10 highlights the strict curriculum in Danish schools, which may limit flexibility and individualized learning for students."
+}

@@ -1,0 +1,35 @@
+temperature: 0.3, model: gpt-4
+prompt: 
+
+Your task is to extract categories from a sequence of sentences delimited by <>. 
+Each sentence is represented by a number. 
+To perform the task do the following: - First, work out what categories best represent the different sentences. - Second, reflect if you can better categorize the sentences. - Third, explain each category. - Fourth, associate each sentence to one of the categories.
+Refer to the sentences by their number. More than one sentence can be associated with a category
+Use the following format: Category: ```
+category here ```
+Explanation: ```
+explanation here ```
+Sentences that represent the category: ```
+sentence numbers here ```
+
+Sentences: <1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding leads to worse schools, needing more teachers and resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in education system. 
+ 6: Schools are well-equipped but lack engaging teaching methods. 
+ 7: More stability in school staff would benefit children's education. 
+ 8: Teachers feel demotivated, need support for better work environment. 
+ 9: Teachers are poorly paid and educated; needs ministry intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ >
+
+response: 
+Category: ```Positive Aspects of Education```
+Explanation: ```This category includes sentences that highlight the positive aspects of the education system, such as parent satisfaction, student enjoyment, and support provided.```
+Sentences that represent the category: ```2, 5```
+
+Category: ```Negative Aspects of Education```
+Explanation: ```This category includes sentences that address the problems and challenges faced by the education system, such as outdated teaching methods, underfunding, and lack of resources.```
+Sentences that represent the category: ```1, 3, 4, 6, 7, 8, 9, 10, 11```

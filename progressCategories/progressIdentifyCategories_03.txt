@@ -1,0 +1,50 @@
+prompt: 
+
+
+Perform the following actions: 
+1 - Determine the distinct topics that are being discussed in the following sentences delimited by triple backticks /
+. Each sentence is represented by a number.
+2 - For each topic, explain how they are represented by the sentences.
+3 - For each topic, include which sentences represent the topic. Refer to the sentences by number.
+
+Separate your answers with line breaks.
+
+Sentences: ```prompt: 
+
+    Your task is to extract relevant information from \ 
+    the opinion of parents about the school of their children     to give feedback to the Ministry of Education. 
+
+    From the opinion below, delimited by triple backticks     extract the information relevant to the state of the     schools and the education system. Limit to one sentence with at most 10 words. 
+
+    Opinion: 
+    
+response: 
+1: Teaching methods in Danish schools are outdated. 
+ 2: Danish schools receive positive feedback from parents. 
+ 3: Underfunding has led to worsening Danish schools and insufficient resources. 
+ 4: School quality varies by neighborhood and local population. 
+ 5: Children enjoy freedom, creativity, and foundational support in schools. 
+ 6: Schools are well-equipped but need diverse teaching methods. 
+ 7: More stability in school staff benefits children's education. 
+ 8: Teachers feel demotivated and need support at work. 
+ 9: Teachers are underpaid and poorly educated, requiring intervention. 
+ 10: Strict curriculum limits flexibility and individualized learning. 
+ 11: Teachers unenthusiastic, school requires improved equipment. 
+ ```
+
+response: 
+Topic 1: Teaching methods and curriculum
+Explanation: These sentences discuss the teaching methods, curriculum, and their effects on the education system.
+Sentences: 1, 6, 10
+
+Topic 2: School funding and resources
+Explanation: These sentences address the financial aspects of schools and their impact on the quality of education.
+Sentences: 3, 11
+
+Topic 3: School quality and variation
+Explanation: These sentences discuss the differences in school quality and how it affects the education system.
+Sentences: 2, 4, 5
+
+Topic 4: Teacher-related issues
+Explanation: These sentences focus on the challenges faced by teachers and their impact on the education system.
+Sentences: 7, 8, 9

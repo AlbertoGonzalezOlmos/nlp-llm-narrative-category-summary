@@ -1,0 +1,29 @@
+{
+  "topics": [
+    {
+      "topic": "Danish schools",
+      "explanation": "This topic covers the general state of Danish schools, including their teaching methods, quality, and funding.",
+      "sentence_numbers": [1, 2, 3, 4, 5, 6]
+    },
+    {
+      "topic": "Teaching methods",
+      "explanation": "This topic focuses on the teaching methods used in schools, their effectiveness, and the impact on students.",
+      "sentence_numbers": [1, 5, 6, 10]
+    },
+    {
+      "topic": "Teachers",
+      "explanation": "This topic discusses the issues faced by teachers, such as their education, motivation, and work environment.",
+      "sentence_numbers": [7, 8, 9, 11]
+    },
+    {
+      "topic": "School resources",
+      "explanation": "This topic covers the resources available in schools, including funding, equipment, and staff stability.",
+      "sentence_numbers": [3, 6, 7, 11]
+    },
+    {
+      "topic": "School quality",
+      "explanation": "This topic addresses the varying quality of schools based on factors such as neighborhood and local population.",
+      "sentence_numbers": [2, 4, 5]
+    }
+  ]
+}
